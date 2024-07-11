@@ -1,7 +1,9 @@
-*{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.catamaran{
+  font-family: "Catamaran", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
 }
-
 .container{
   margin: 0%;
   padding: 0;
